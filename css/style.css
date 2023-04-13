@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem;
+    
+}
+h1{
+    font-size: 3rem;
+    font-weight: 900;
+    padding-top: 8rem;
+    font-family: 'Courier New', Courier, monospace
+    ;
+    
+}
+h2{
+
+   padding: 1rem 0;
+    font-size: 3rem;
+}
+body{
+ background-image: url(../img/Diseño\ sin\ título.png);
+ background-repeat: no-repeat;
+ object-fit: cover;
+ font-family: 'Courier New', Courier, monospace
+ ;
+ color: antiquewhite;
+}
